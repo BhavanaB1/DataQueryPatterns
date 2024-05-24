@@ -6,3 +6,9 @@ create table employee_1(
     manager_id int,
     emp_age int
 );
+
+
+create table dept_1(
+    dep_id int,
+    dep_name varchar(20)
+);
