@@ -1,0 +1,8 @@
+create table employee_1(
+    emp_id int,
+    emp_name varchar(20),
+    dept_id int,
+    salary int,
+    manager_id int,
+    emp_age int
+);
